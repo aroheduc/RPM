@@ -1,4 +1,4 @@
-# import complex math module
+# import math module
 import math
 
 a = int(input("Enter the first known number (a): "))
